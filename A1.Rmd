@@ -7,8 +7,10 @@ output:
     toc: true
     toc_depth: 3
 ---
+
 # Summary of the Dataset
-In this report, we are going to clean and normalize GEO data **GSE75168** for future analysis. The data target methlyation and acethylation of histone H3 lysine 4 correlation with breast cancer sub-types. Using a genome-wide ChIP-Seq approach, the data provide raw genomic count data of three human mammary cell lines: normal-like subtype (**MCF10A**), and two cancer sub-types: luminal(**MCF7**) and basal-like metastatic (**MDA-MB-231**)(*Messier et al. 2016*).
+
+In this report, we are going to clean and normalize GEO data **GSE75168** for future analysis. The data target methlyation and acethylation of histone H3 lysine 4 correlation with breast cancer sub-types. Using a genome-wide ChIP-Seq approach, the data provide raw genomic count data of three human mammary cell lines: normal-like sub-type (**MCF10A**), and two cancer sub-types: luminal(**MCF7**) and basal-like metastatic (**MDA-MB-231**)(*Messier et al. 2016*).
 
 # Step 1: Clean the data and map to HUGO symbols
 
@@ -447,7 +449,7 @@ Some key factors for number of significant DE genes. 2015 Nov 2. CVR Bioinformat
 
 Kimura H. Histone modifications for human epigenome analysis. J Hum Genet. 2013; 58:439-445.
 
-Ruth Isserlin, Course Lectures (2022)
+Ruth Isserlin, Course Lectures (2023)
 
 
 
